@@ -17,17 +17,17 @@ This project was a technical prototype to develop a 3D off-road driving simulato
 7. Analytics
 
 ## Framework
-There is no framework for this project rather, collaboratively, students must create the project from scratch with the asset packs provided by Kenny.NL (https://kenney.nl/) under a Creative Commons 1.0 Universal License. 
+There is no framework for this project. Collaboratively, students must create the project from scratch with the asset packs provided by Kenny.NL (https://kenney.nl/) under a Creative Commons 1.0 Universal License. 
 
 ## Features
 ### 1. Physics-based Car Movement
-The vehicle should simulate realistic behaviours and be affected by the various physics forces like drag and gravity.
+The vehicle should simulate realistic behaviours and be affected by various physics forces like drag and gravity.
 
 ### 2. 3D Terrain & Obstacles
 The player should be allowed to navigate a customised terrain and experience collisions when colliding with terrain features.
 
 ### 3. Checkpoints
-The player is required to traverse a series of checkpoints in a specific order and should be indicated with a glow.
+The player must traverse a series of checkpoints in a specific order and should be indicated with a glow.
 
 ### 4. Player Health
 The player should take damage when colliding with obstacles proportionate to the force of the collision and should exhibit different health states using values and particles.
@@ -42,7 +42,7 @@ The game should have a health bar, timer, panel for when the player wins or lose
 The game should record a set of events using Unity Analytics.
 
 ## Documentation
-The project should include the following documentations:
+The project should include the following documentation:
 - Entity Relation Diagram
 - Quality Assurance Plan
 - Bug History
@@ -50,4 +50,3 @@ The project should include the following documentations:
 
 These can be found under Ass2 AS > Assets > Documentation or follow this link:
 https://github.com/Hamster9029/comp2160-ass2-as-group-project/tree/main/Ass2%20AS/Assets/Documentation
-
