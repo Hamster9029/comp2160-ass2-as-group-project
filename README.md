@@ -2,8 +2,8 @@
 comp2160-ass2-as created by GitHub Classroom
 
 # Collaborators
-- *Martin Cai* Programmer
-- *Randle Pete Valerio* Programmer
+- **Martin Cai** Programmer
+- **Randle Pete Valerio** Programmer
 
 ## Purpose
 This project was a technical prototype to develop a 3D off-road driving simulator that includes the following features:
