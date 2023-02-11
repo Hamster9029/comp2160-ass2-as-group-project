@@ -48,4 +48,6 @@ The project should include the following documentations:
 - Bug History
 - Task Allocation
 
+These can be found under Ass2 AS > Assets > Documentation or follow this link:
+https://github.com/Hamster9029/comp2160-ass2-as-group-project/tree/main/Ass2%20AS/Assets/Documentation
 
