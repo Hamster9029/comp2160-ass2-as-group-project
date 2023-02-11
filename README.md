@@ -1,4 +1,4 @@
-# comp2160-ass2-as
+# COMP2160-ASS2-Group-AS
 comp2160-ass2-as created by GitHub Classroom
 
 # Collaborators
