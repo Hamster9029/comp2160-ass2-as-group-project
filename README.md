@@ -1,8 +1,9 @@
 # comp2160-ass2-as
 comp2160-ass2-as created by GitHub Classroom
 
-Martin Cai 46349456
-Randle Pete Valerio 45952507
+# Collaborators
+- Martin Cai 46349456
+- Randle Pete Valerio 45952507
 
 ## Purpose
 This project was a technical prototype to develop a 3D off-road driving simulator that includes the following features:
